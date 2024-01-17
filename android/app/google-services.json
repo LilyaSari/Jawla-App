@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "920102964025",
+    "project_id": "jawla-745bb",
+    "storage_bucket": "jawla-745bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:920102964025:android:96a05a4cbdcb51a685b6e8",
+        "android_client_info": {
+          "package_name": "com.jawla.jawla"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "920102964025-89bg62uda0khofq86e0np9lh48aghdtf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBz7H-Ghh0VTj22zclTczCpf2VJ0v9JrSQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "920102964025-89bg62uda0khofq86e0np9lh48aghdtf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
